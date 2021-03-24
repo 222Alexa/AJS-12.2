@@ -30,3 +30,5 @@
 Напишите авто-тесты на функции - удостоверьтесь, что покрытие по строкам для тестируемых функций равно 100%.
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/kx7o246s4jd25igb/branch/master?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-12-2/branch/master)
