@@ -61,3 +61,6 @@
 
 ### Typescript
 
+[![Build status](https://ci.appveyor.com/api/projects/status/b76g4hqsixj6934g/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-12-2-0uaeq/branch/main)
+
+---
